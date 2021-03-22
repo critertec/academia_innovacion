@@ -1,0 +1,27 @@
+{
+    "Version": {
+        "Manifest": "v4",
+        "ManifestMinWebPart": "4.0.0",
+        "CurrentWebPart": "4.0.0",
+        "RepoURL": "https://github.com/critertec/academia_innovacion"
+    },
+    "ContentPacks": [
+        {
+            "Id": "contentpack__academia_de_innovacion",
+            "Name": "Academia de Innovación",
+            "Description": "Add the SharePoint Success Site content pack to access playlists that support training new SharePoint Site owners on how to create high-impact sites.",
+            "Image": "https://microsoft.github.io/customlearning_staging/sss/v4/en-us/images/categories/AddSSS.png",
+            "ProvisionUrl": "",
+            "CdnBase": "https://github.com/critertec/academia_innovacion/docs/"
+        }
+    ],
+    "AssetOrigins": [
+        "https://critertec.github.io/academia_innovacion"
+    ],
+    "Telemetry": {
+        "AppInsightKey": "9a46dc18-dca7-4f9c-aaf7-1af9ad28fdda"
+    },
+    "Languages": [
+        "es-CO"
+    ]
+}

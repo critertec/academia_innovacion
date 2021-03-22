@@ -47,16 +47,5 @@
             "Id": "status__nuevo",
             "Name": "Nuevo"
         }
-    ],
-    "Telemetry": {},
-    "Version": {
-        "Manifest": "v4",
-        "ManifestMinWebPart": "4.0.0",
-        "CurrentWebPart": "4.0.0",
-        "RepoURL": "https://github.com/critertec/academia_innovacion"
-    },
-    "ContentPacks": [],
-    "AssetOrigins": [
-        "https://critertec.github.io/academia_innovacion"
     ]
 }
