@@ -53,10 +53,10 @@
         "Manifest": "v4",
         "ManifestMinWebPart": "4.0.0",
         "CurrentWebPart": "4.0.0",
-        "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+        "RepoURL": "https://github.com/critertec/academia_innovacion"
     },
     "ContentPacks": [],
     "AssetOrigins": [
-        "https://github.com"
+        "https://critertec.github.io/academia_innovacion"
     ]
 }
