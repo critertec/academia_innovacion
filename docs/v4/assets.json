@@ -1,0 +1,114 @@
+[
+    {
+        "Id": "asset__planeacion__introduccion",
+        "Title": "Introduccion",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__planeacion__webinar",
+        "Title": "Webinar",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__planeacion__infografia",
+        "Title": "Infografía",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__planeacion__tutoriales",
+        "Title": "Tutoriales",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__planeacion__guia_pedagogica",
+        "Title": "Guía pedagógica",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+
+
+    {
+        "Id": "asset__evaluacion__introduccion",
+        "Title": "Introduccion",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__evaluacion__webinar",
+        "Title": "Webinar",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__evaluacion__infografia",
+        "Title": "Infografía",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__evaluacion__tutoriales",
+        "Title": "Tutoriales",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__evaluacion__guia_pedagogica",
+        "Title": "Guía pedagógica",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    }
+]

@@ -1,0 +1,62 @@
+{
+    "Technologies": [
+        {
+            "Id": "tech__innovacion",
+            "Name": "Innovacion",
+            "Subjects": []
+        }
+    ],
+    "Categories": [
+        {
+            "Id": "cat__academia_de_innovacion",
+            "Name": "Academia de Innovacion",
+            "Image": "",
+            "TechnologyId": "",
+            "SubjectId": "",
+            "Source": "Critertec",
+            "SubCategories": [
+                {
+                    "Id": "subcat__regreso_a_clases",
+                    "Name": "Regreso a Clases",
+                    "Image": "images/categories/regreso_a_clases.png",
+                    "TechnologyId": "",
+                    "SubjectId": "",
+                    "Source": "Critertec",
+                    "SubCategories": []
+                }
+            ]
+        }
+    ],
+    "Audiences": [
+        {
+            "Id": "aud__todos",
+            "Name": "Todos"
+        }
+    ],
+    "Sources": [
+        "Critertec"
+    ],
+    "Levels": [
+        {
+            "Id": "lvl__todos",
+            "Name": "Todos"
+        }
+    ],
+    "StatusTag": [
+        {
+            "Id": "status__nuevo",
+            "Name": "Nuevo"
+        }
+    ],
+    "Telemetry": {},
+    "Version": {
+        "Manifest": "v4",
+        "ManifestMinWebPart": "4.0.0",
+        "CurrentWebPart": "4.0.0",
+        "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+    },
+    "ContentPacks": [],
+    "AssetOrigins": [
+        "https://github.com"
+    ]
+}

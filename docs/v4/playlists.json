@@ -1,0 +1,44 @@
+[
+    {
+        "Id":"playlist__planeacion",
+        "Title":"Planeación",
+        "Image":"images/playlists/planeacion.png",
+        "LevelId":"lvl__todos",
+        "AudienceId":"aud__todos",
+        "TechnologyId":"tech__innovacion",
+        "SubjectId":"",
+        "Source":"Critertec",
+        "CatId":"cat__academia_de_innovacion",
+        "Description":"Identifica las características de metodologías disruptivas como el Design Thinking y el Game Design, para mejorar los procesos de planeación escolar y universitaria teniendo en cuenta la voz e intereses de los estudiantes.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets": [
+            "asset__planeacion__introduccion",
+            "asset__planeacion__webinar",
+            "asset__planeacion__infografia",
+            "asset__planeacion__tutoriales",
+            "asset__planeacion__guia_pedagogica"
+        ]
+    },
+    {
+        "Id":"playlist__evaluacion",
+        "Title":"Evaluación",
+        "Image":"images/playlists/evaluacion.png",
+        "LevelId":"lvl__todos",
+        "AudienceId":"aud__todos",
+        "TechnologyId":"tech__innovacion",
+        "SubjectId":"",
+        "Source":"Critertec",
+        "CatId":"cat__academia_de_innovacion",
+        "Description":"Reconoce cómo las estrategias de gamificación pueden mejorar los procesos de evaluación escolar y universitaria teniendo en cuenta la voz e intereses de los estudiantes.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets": [
+            "asset__evaluacion__introduccion",
+            "asset__evaluacion__webinar",
+            "asset__evaluacion__infografia",
+            "asset__evaluacion__tutoriales",
+            "asset__evaluacion__guia_pedagogica"
+        ]
+    }
+]
