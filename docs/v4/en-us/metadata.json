@@ -23,6 +23,15 @@
                     "SubjectId": "",
                     "Source": "Critertec",
                     "SubCategories": []
+                },
+                {
+                    "Id": "subcat__Min_Edu",
+                    "Name": "Minecraft Education",
+                    "Image": "images/categories/minecraft_education.png",
+                    "TechnologyId": "",
+                    "SubjectId": "",
+                    "Source": "Arukay",
+                    "SubCategories": []
                 }
             ]
         }
