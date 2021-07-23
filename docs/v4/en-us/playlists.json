@@ -40,5 +40,26 @@
             "asset__evaluacion__tutoriales",
             "asset__evaluacion__guia_pedagogica"
         ]
+    },
+    {
+        "Id":"playlist__conceptos",
+        "Title":"Conceptos básicos",
+        "Image":"images/playlists/Conceptos.png",
+        "LevelId":"lvl__todos",
+        "AudienceId":"aud__todos",
+        "TechnologyId":"tech__innovacion",
+        "SubjectId":"",
+        "Source":"Critertec",
+        "CatId":"subcat__Min_Edu",
+        "Description":"Aquí van tus primeros pasos con Minecraft.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets": [
+            "asset__evaluacion__introduccion",
+            "asset__evaluacion__webinar",
+            "asset__evaluacion__infografia",
+            "asset__evaluacion__tutoriales",
+            "asset__evaluacion__guia_pedagogica"
+        ]
     }
 ]
