@@ -42,8 +42,8 @@
         ]
     },
     {
-        "Id":"playlist__conceptos",
-        "Title":"Conceptos básicos",
+        "Id":"playlist__basico",
+        "Title":"Módulo básico",
         "Image":"images/playlists/Conceptos.png",
         "LevelId":"lvl__todos",
         "AudienceId":"aud__todos",
@@ -51,15 +51,63 @@
         "SubjectId":"",
         "Source":"Critertec",
         "CatId":"subcat__Min_Edu",
-        "Description":"Aquí van tus primeros pasos con Minecraft.",
+        "Description":"En este módulo identificarás los conceptos básicos de Minecraft: desde cómo instalarlo en tu computador, herramientas básicas de construcción y las habilidades que desarrollarás en tus estudiantes.",
         "StatusTagId":"",
         "StatusNote":"",
         "Assets": [
-            "asset__evaluacion__introduccion",
-            "asset__evaluacion__webinar",
-            "asset__evaluacion__infografia",
-            "asset__evaluacion__tutoriales",
-            "asset__evaluacion__guia_pedagogica"
+            "asset__minecraft_1__introduccion",
+            "asset__minecraft_1__sesion_1",
+            "asset__minecraft_1__sesion_2",
+            "asset__minecraft_1__sesion_3",
+            "asset__minecraft_1__sesion_4",
+            "asset__minecraft_1__sesion_5",
+            "asset__minecraft_1__sesion_6"
+        ]
+    },
+    {
+        "Id":"playlist__medio",
+        "Title":"Módulo intermedio",
+        "Image":"images/playlists/medio.png",
+        "LevelId":"lvl__todos",
+        "AudienceId":"aud__todos",
+        "TechnologyId":"tech__innovacion",
+        "SubjectId":"",
+        "Source":"Critertec",
+        "CatId":"subcat__Min_Edu",
+        "Description":"En este Módulo, exploraremos cómo Minecraft: Education Edition apoya la enseñanza y el aprendizaje a través de una interfaz que involucra la creatividad de los estudiantes y fortalece las habilidades del siglo XXI con actividades fáciles de implementar para el aula.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets": [
+            "asset__minecraft_2__modulo_medio",
+            "asset__minecraft_2__sesion_7",
+            "asset__minecraft_2__sesion_8",
+            "asset__minecraft_2__sesion_9",
+            "asset__minecraft_2__sesion_10",
+            "asset__minecraft_2__sesion_11"
+        ]
+    },
+    {
+        "Id":"playlist__avanzado",
+        "Title":"Módulo avanzado",
+        "Image":"images/playlists/alto.png",
+        "LevelId":"lvl__todos",
+        "AudienceId":"aud__todos",
+        "TechnologyId":"tech__innovacion",
+        "SubjectId":"",
+        "Source":"Critertec",
+        "CatId":"subcat__Min_Edu",
+        "Description":"En este módulo, conoceremos los conceptos básicos de Inteligencia Artificial como una forma de conectarse con las prácticas de ingeniería y nuevas tecnologías que los estudiantes pueden usar en Minecraft.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets": [
+            "asset__minecraft_3__modulo_avanzado",
+            "asset__minecraft_3__sesion_12",
+            "asset__minecraft_3__sesion_13",
+            "asset__minecraft_3__sesion_14",
+            "asset__minecraft_3__sesion_15",
+            "asset__minecraft_3__sesion_16",
+            "asset__minecraft_3__sesion_17",
+            "asset__minecraft_3__sesion_18"
         ]
     }
 ]
