@@ -110,5 +110,242 @@
         "Source": "Critertec",
         "StatusTagId": "",
         "StatusNote": ""
+    },
+
+
+    {
+        "Id": "asset__minecraft_1__introduccion",
+        "Title": "Introducción",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/introduccion.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_1",
+        "Title": "Descarga e instalación",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_1.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_2",
+        "Title": "Manejo de Interfaz",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_2.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_3",
+        "Title": "Creación de mundos",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_3.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_4",
+        "Title": "Conociendo el agente",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_4.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_5",
+        "Title": "Hora del código",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_5.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_1__sesion_6",
+        "Title": "Conexión a Teams",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_1/sesion_6.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+
+
+    {
+        "Id": "asset__minecraft_2__modulo_medio",
+        "Title": "Introducción",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/modulo_medio.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_2__sesion_7",
+        "Title": "Mapa tutorial",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/sesion_7.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_2__sesion_8",
+        "Title": "Protege tu castillo",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/sesion_8.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_2__sesion_9",
+        "Title": "Crea tu casa del árbol",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/sesion_9.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_2__sesion_10",
+        "Title": "Arrecife de coral",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/sesion_10.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_2__sesion_11",
+        "Title": "Construye tu habitación soñada",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_2/sesion_11.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+
+
+    {
+        "Id": "asset__minecraft_3__modulo_avanzado",
+        "Title": "Introducción",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/modulo_avanzado.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_12",
+        "Title": "¿Quién es ese Ocelote?",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_12.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_13",
+        "Title": "Mapeo del terreno",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_13.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_14",
+        "Title": "Agricultura sostenible",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_14.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_15",
+        "Title": "Observaciones Oceánicas",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_15.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_16",
+        "Title": "Calidad del agua",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_16.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_17",
+        "Title": "Ciudad sustentable",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_17.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+        "Id": "asset__minecraft_3__sesion_18",
+        "Title": "Mapa Humboldt",
+        "Description": "",
+        "Url": "https://critertec.github.io/academia_innovacion-learning_pathways/assets/minecraft_3/sesion_18.html",
+        "TechnologyId": "tech__innovacion",
+        "SubjectId": "",
+        "Source": "Critertec",
+        "StatusTagId": "",
+        "StatusNote": ""
     }
 ]
